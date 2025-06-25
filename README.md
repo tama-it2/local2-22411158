@@ -10,11 +10,15 @@
 
 条件：
 
-1. 市町村名は、[第２見出し](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) `##` で記述しなさい
-1. 紹介は項目ごとに[箇条書き](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) としなさい
-3. 市町村に関するニュースに、[リンク](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) を貼りなさい
-4. ニュースサイトの記事から、重要な部分を 10 字 - 20 字程度で[引用](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) しなさい
-5. これらを、MarkDown で記述しなさい。
+## 神奈川県厚木市
+・紹介
+1. 昔の影響でなぜか治安の悪い場所として知られている。
+2. 交通アクセスはそんなに悪くない
+
+・ニュース
+https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-789508
+
+相模川水系で**アユ釣りが６月１日に解禁**。同連合会の木藤照雄代表理事会長は「昨年と比べるとやや小さめではあるが、遡上の数は多く７月から体長も伸びて楽しめるのではないか」と期待を寄せている。
 
 ## 注意
 
