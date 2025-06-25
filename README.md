@@ -13,7 +13,7 @@
 ## 神奈川県厚木市
 ・紹介
 1. 昔の影響でなぜか治安の悪い場所として知られている。
-2. 交通アクセスはそんなに悪くない
+2. 交通アクセスはそんなに悪くない。
 
 ・ニュース
 https://topics.smt.docomo.ne.jp/article/townnews/region/townnews-789508
